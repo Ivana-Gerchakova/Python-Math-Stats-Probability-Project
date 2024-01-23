@@ -18,32 +18,27 @@ Implemented visual displays to highlight variations in salary based on different
 
 2. Spam Filter Analysis:
 a) Bayesian Spam Filter:
-Applied Bayes' theorem to estimate the probability of an email being spam based on the presence of specific words (shipping! today! here! available, fingertips!).
-Evaluated the effectiveness of flagging messages with the word "shipping!" as spam.
+Applied Bayes' theorem to estimate the probability of an email being spam based on the presence of specific words.
 b) Word Indicators:
-Analyzed the probability of a message being spam based on the presence of words "today!" and "here!".
-Identified which word serves as a stronger indicator for spam and provided reasoning.
+Analyzed the probability of a message being spam based on the presence of specific words.
+Identified which word serves as a stronger indicator for spam.
 c) Additional Word Indicators:
-Explored the impact of words "available" and "fingertips!" on the probability of a message being spam.
-Determined the stronger indicator and explained the findings.
+Explored the impact of specific words on the probability of a message being spam.
 
 3. Poisson Distribution Analysis:
 Employed the Poisson distribution to model the probability of catching a certain number of fish per hour.
-Calculated and tabulated probabilities for catching 0 to 10 fish per hour.
-Visualized probabilities using a bar graph.
+Calculated,tabulated and visualized probabilities.
 
 4. Joint Frequency Distribution Analysis:
 a) Marginal and Conditional Distributions:
 Derived marginal frequency distributions of random variables X and Y.
-Calculated conditional frequency distributions of X given Y = 1 and Y given X = 2.
 b) Expected Values and Conditional Expectations:
 Calculated expected values E(X) and E(Y).
-Determined conditional expectations E(X|Y = 1) and E(Y|X = 3).
 c) Conditional Variance:
-Computed conditional variance Var(X|Y = 1).
+Computed conditional variance Var(X|Y).
 d) Random Variable W:
-Defined a new random variable W = E(X|Y = y) and wrote its probability distribution.
-Calculated E(W) and explored its significance.
+Defined a random variable W = E(X|Y = y) with distribution.
+Calculated E(W).
 e) Additional Analysis:
 
 ## Project Preview :
